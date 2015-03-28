@@ -1,3 +1,5 @@
-# proposals
+# FOS Proposals
+## Express your love for Open Source!
 
-Expressing FOSS love
+This repository serves as an archive of *F*ree and *O*pen *S*
+
