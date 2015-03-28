@@ -55,8 +55,8 @@ fos-proposals/
                 └──image_01.png
 ```
 
-_`Proposed` is euphemistic. 
-Love can often one-direction$al. _
+`Proposed` is euphemism.
+*Love can often be one-directional.*
 
 
 
