@@ -49,18 +49,33 @@ Suggestions are always welcome.
 ## Organisation
 
 ```
-fos-proposals/
-├── GSoC-Year
-│   └── Accepted
-        └──Organisation-YourName-Title
-            └──Organisation-YourName-Title.md
-            └──media
-                └──image_01.png
-    └── Proposed
-        └──Organisation-YourName-Title
-            └──Organisation-YourName-Title.md
-            └──media
-                └──image_01.png
+├── AUTHORS.md
+├── GSoC-2012
+│   ├── Accepted
+│   │   └── Connexions-SaketChoudhary-OERPub-API
+│   │       ├── Connexions-SaketChoudhary-OERPub-API.md
+│   │       └── media
+│   └── Proposed
+├── GSoC-2013
+│   ├── Accepted
+│   │   └── Genome-Informatics-SaketChoudhary-eQTL-Pipeline
+│   │       ├── Genome-Informatics-SaketChoudhary-eQTL-Pipeline.md
+│   │       └── media
+│   │           ├── image_0.png
+│   │           └── image_1.jpg
+│   └── Proposed
+├── GSoC-2014
+│   ├── Accepted
+│   │   ├── BioJS-SaketChoudhary-HumanGV
+│   │   │   ├── BioJS-SaketChoudhary-HumanGV.md
+│   │   │   └── media
+│   │   │       ├── image_0.png
+│   │   │       ├── image_1.png
+│   │   │       ├── image_2.png
+│   │   │       ├── image_3.png
+│   │   │       └── image_4.png
+│   │   └── Mozilla-ManishG-Servo
+│   │       └── Mozilla-ManishG-Servo.md
 ```
 
 `Proposed` is euphemism.
