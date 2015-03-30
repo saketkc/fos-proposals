@@ -1,6 +1,8 @@
 # FOS Proposals
 ## Express your love for Open Source!
 
+[![views](https://sourcegraph.com/api/repos/github.com/saketkc/fos-proposals/.counters/views.svg)](https://sourcegraph.com/github.com/saketkc/fos-proposals)
+
 This repository serves as an archive of *F*ree and *O*pen *S*ource proposals.
 Since [GSoC](https://developers.google.com/open-source/soc/?csw=1) is the only such 
 program where I participated myself, the dump is organized as such.
@@ -9,9 +11,15 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 
 ## Adding your proposal?
 
+Opening a pull request with links to a Google Doc should suffice.
+In case you want to help more, read on.
+
+
 All proposals need to be in Github flavored markdown format.
 If you have a Google Doc, conversion should be pretty straightforward
 using [pandoc](http://johnmacfarlane.net/pandoc/README.html)
+
+
 
 ```
 git clone git@github.com:username/fos-proposals.git
