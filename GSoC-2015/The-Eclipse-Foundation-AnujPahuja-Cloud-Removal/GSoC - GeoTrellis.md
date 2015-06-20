@@ -48,7 +48,7 @@ Filling Cloudy regions:
 
 For filling the cloudy regions, an NSPI cloud fill algorithm by Zhu et al.[2] will be implemented. The algorithm uses a weighted linear model to predict the spectral value of a target pixel from its neighbouring similar pixels. Here is the flowchart describing this approach[2]:
 
-                     ![image alt text](media/image_0.png)
+![image alt text](media/image_0.png)
 
 It’s important to note that the Fmask algorithm described above is limited to Landsat/ETM+ images and thus, restricts the scope of this algorithm. However, the project is in service of implementing cloud removal algorithms for multiband imagery in general, and to make improvements in the framework that allow general algorithms to run over imagery data. Implementation of the Fmask algorithm will be an initial step towards those broader framework improvements. The project aims to be an initial step towards cloud removal for satellite imagery in general. 
 
