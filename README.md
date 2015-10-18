@@ -1,7 +1,6 @@
 # FOS Proposals
 ## Express your love for Open Source!
 
-[![views](https://sourcegraph.com/api/repos/github.com/saketkc/fos-proposals/.counters/views.svg)](https://sourcegraph.com/github.com/saketkc/fos-proposals)
 
 This repository serves as an archive of *F*ree and *O*pen *S*ource proposals.
 Since [GSoC](https://developers.google.com/open-source/soc/?csw=1) is the only such 
