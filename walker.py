@@ -3,9 +3,9 @@ import glob
 import os
 import ntpath
 
-dirs = ['GSoC-2012', 'GSoC-2013', 'GSoC-2014', 'GSoC-2015']
+fdirs = ['GSoC-2012', 'GSoC-2013', 'GSoC-2014', 'GSoC-2015']
 ignored_f = ['AUTHORS.md', 'README.md']
-fdict = {k:{'Accepted':[], 'Proposed':[]} for k in dirs}
+fdict = {k:{'Accepted':[], 'Proposed':[]} for k in fdirs}
 for root, dirs, files in os.walk("."):
     for f in files:
         if f.endswith(".md") and f not in ignored_f:
@@ -17,7 +17,8 @@ for root, dirs, files in os.walk("."):
              fdict[gsoc][acc_or_pro].append('[{}]({}/{})'.format(linkname, root[2:], f))
 
 strtext = ''
-for key, value in fdict.iteritems():
+for key in fdirs:
+    value = fdict[key]
     strtext += '- {}\n'.format(key)
     for a, flist in value.iteritems():
         if not flist:
