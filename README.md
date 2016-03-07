@@ -1,12 +1,39 @@
 # FOS Proposals
 ## Express your love for Open Source!
 
-
 This repository serves as an archive of *F*ree and *O*pen *S*ource proposals.
 Since [GSoC](https://developers.google.com/open-source/soc/?csw=1) is the only such 
 program where I participated myself, the dump is organized as such.
 If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 
+
+## Proposals
+
+- GSoC-2012
+	- Accepted
+		- [Connexions-SaketChoudhary-OERPub-API](GSoC-2012/Accepted/Connexions-SaketChoudhary-OERPub-API/Connexions-SaketChoudhary-OERPub-API.md)
+- GSoC-2013
+	- Accepted
+		- [Genome-Informatics-SaketChoudhary-eQTL-Pipeline](GSoC-2013/Accepted/Genome-Informatics-SaketChoudhary-eQTL-Pipeline/Genome-Informatics-SaketChoudhary-eQTL-Pipeline.md)
+- GSoC-2014
+	- Accepted
+		- [Mozilla-ManishG-Servo](GSoC-2014/Accepted/Mozilla-ManishG-Servo/Mozilla-ManishG-Servo.md)
+		- [KDE-AnujPahuja-KDE-Games-to-KF5](GSoC-2014/Accepted/KDE-AnujPahuja-KDE-Games-to-KF5/GSoC - KDE.md)
+		- [BioJS-SaketChoudhary-HumanGV](GSoC-2014/Accepted/BioJS-SaketChoudhary-HumanGV/BioJS-SaketChoudhary-HumanGV.md)
+- GSoC-2015
+	- Accepted
+		- [HimanshuMishra-PSF-Implementing-Add-On-System-For-NetworkX](GSoC-2015/Accepted/HimanshuMishra-PSF-Implementing-Add-On-System-For-NetworkX/GSoC-2015-Application-Himanshu-Mishra-Add-on-System-for-NetworkX.md)
+		- [Sumith1896-PSF-Implementing-Polynomial-module-in-CSymPy](GSoC-2015/Accepted/Sumith1896-PSF-Implementing-Polynomial-module-in-CSymPy/GSoC-2015-Application-Sumith-Implementing-polynomial-module-in-CSymPy.md)
+		- [Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy](GSoC-2015/Accepted/Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy/Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy.md)
+		- [SaketC-statsmodels-MixedModels](GSoC-2015/Accepted/SaketC-statsmodels-MixedModels/SaketC-statsmodels-MixedModels.md)
+		- [The-Eclipse-Foundation-AnujPahuja-Cloud-Removal](GSoC-2015/Accepted/The-Eclipse-Foundation-AnujPahuja-Cloud-Removal/GSoC - GeoTrellis.md)
+	- Proposed
+		- [Mozilla-ManishG-FormSupportServo](GSoC-2015/Proposed/Mozilla-ManishG-FormSupportServo/Mozilla-ManishG-FormSupportServo.md)
+
+
+
+`Proposed` is euphemism.
+*Love can often be one-directional.*
 
 ## Adding your proposal?
 
@@ -45,33 +72,6 @@ which in my experience so far gives superior output to `pandoc`.
 Suggestions are always welcome.
 
 
-## Organisation
-
-- GSoC-2012
-	- Accepted
-		- [Connexions-SaketChoudhary-OERPub-API](GSoC-2012/Accepted/Connexions-SaketChoudhary-OERPub-API/Connexions-SaketChoudhary-OERPub-API.md)
-- GSoC-2013
-	- Accepted
-		- [Genome-Informatics-SaketChoudhary-eQTL-Pipeline](GSoC-2013/Accepted/Genome-Informatics-SaketChoudhary-eQTL-Pipeline/Genome-Informatics-SaketChoudhary-eQTL-Pipeline.md)
-- GSoC-2014
-	- Accepted
-		- [Mozilla-ManishG-Servo](GSoC-2014/Accepted/Mozilla-ManishG-Servo/Mozilla-ManishG-Servo.md)
-		- [KDE-AnujPahuja-KDE-Games-to-KF5](GSoC-2014/Accepted/KDE-AnujPahuja-KDE-Games-to-KF5/GSoC - KDE.md)
-		- [BioJS-SaketChoudhary-HumanGV](GSoC-2014/Accepted/BioJS-SaketChoudhary-HumanGV/BioJS-SaketChoudhary-HumanGV.md)
-- GSoC-2015
-	- Accepted
-		- [HimanshuMishra-PSF-Implementing-Add-On-System-For-NetworkX](GSoC-2015/Accepted/HimanshuMishra-PSF-Implementing-Add-On-System-For-NetworkX/GSoC-2015-Application-Himanshu-Mishra-Add-on-System-for-NetworkX.md)
-		- [Sumith1896-PSF-Implementing-Polynomial-module-in-CSymPy](GSoC-2015/Accepted/Sumith1896-PSF-Implementing-Polynomial-module-in-CSymPy/GSoC-2015-Application-Sumith-Implementing-polynomial-module-in-CSymPy.md)
-		- [Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy](GSoC-2015/Accepted/Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy/Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy.md)
-		- [SaketC-statsmodels-MixedModels](GSoC-2015/Accepted/SaketC-statsmodels-MixedModels/SaketC-statsmodels-MixedModels.md)
-		- [The-Eclipse-Foundation-AnujPahuja-Cloud-Removal](GSoC-2015/Accepted/The-Eclipse-Foundation-AnujPahuja-Cloud-Removal/GSoC - GeoTrellis.md)
-	- Proposed
-		- [Mozilla-ManishG-FormSupportServo](GSoC-2015/Proposed/Mozilla-ManishG-FormSupportServo/Mozilla-ManishG-FormSupportServo.md)
-
-
-
-`Proposed` is euphemism.
-*Love can often be one-directional.*
 
 
 
