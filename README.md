@@ -27,6 +27,7 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 		- [Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy](GSoC-2015/Accepted/Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy/Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy.md)
 		- [SaketC-statsmodels-MixedModels](GSoC-2015/Accepted/SaketC-statsmodels-MixedModels/SaketC-statsmodels-MixedModels.md)
 		- [The-Eclipse-Foundation-AnujPahuja-Cloud-Removal](GSoC-2015/Accepted/The-Eclipse-Foundation-AnujPahuja-Cloud-Removal/GSoC - GeoTrellis.md)
+		- [ASF-ODE-Process-Instance-Visualization-For-Monitoring-Console](GSoC-2015/Accepted/kamdjouduplex-ASF-ODE-Process-Instance-Visualization-For-Monitoring-Console/kamdjouduplex-ASF-ODE-Process-Instance-Visualization-For-Monitoring-Console.md)
 	- Proposed
 		- [Mozilla-ManishG-FormSupportServo](GSoC-2015/Proposed/Mozilla-ManishG-FormSupportServo/Mozilla-ManishG-FormSupportServo.md)
 
