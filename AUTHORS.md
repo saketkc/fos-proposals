@@ -12,3 +12,5 @@ List of people who have contributed
 [Pratyaksh Sharma](https://github.com/pratyakshs)
 
 [Himanshu Mishra](https://github.com/OrkoHunter)
+
+[Kamdjou Duplex](https://github.com/kamdjouduplex)
