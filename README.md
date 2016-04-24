@@ -31,7 +31,7 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 	- Proposed
 		- [Mozilla-ManishG-FormSupportServo](GSoC-2015/Proposed/Mozilla-ManishG-FormSupportServo/Mozilla-ManishG-FormSupportServo.md)
 - GSoC-2016
-	    - Accepted
+	- Accepted
 		- [PSF-MeetPragneshShah-RISCV-myHDL](GSoC-2016/Accepted/PSF-MeetPragneshShah-RISCV-myHDL/PSF-MeetPragneshShah-RISCV-myhdl.md)
 		- [PSF-Kivy-udiboy1209-Tiled-Integration-With-KivEnt](PSF-Kivy-udiboy1209-Tiled-Integration-With-KivEnt/PSF-Kivy-udiboy1209-Tiled-Integration-With-KivEnt.md)
 
