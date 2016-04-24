@@ -14,3 +14,7 @@ List of people who have contributed
 [Himanshu Mishra](https://github.com/OrkoHunter)
 
 [Kamdjou Duplex](https://github.com/kamdjouduplex)
+
+[Meet Udeshi](https://github.com/udiboy1209)
+
+[Meet Pragnesh Shah](https://github.com/meetshah1995)
