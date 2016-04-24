@@ -70,7 +70,7 @@ git commit -am “GSoC-Year: Proposal Title”
 git push origin username-year
 ```
 
-Alternatively, you can use gdocs2md](https://github.com/mangini/gdocs2md)
+Alternatively, you can use [gdocs2md](https://github.com/mangini/gdocs2md)
 which in my experience so far gives superior output to `pandoc`.
 Suggestions are always welcome.
 
