@@ -34,8 +34,10 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 	- Accepted
 		- [PSF-MeetPragneshShah-RISCV-myHDL](GSoC-2016/Accepted/PSF-MeetPragneshShah-RISCV-myHDL/PSF-MeetPragneshShah-RISCV-myhdl.md)
 		- [PSF-Kivy-udiboy1209-Tiled-Integration-With-KivEnt](PSF-Kivy-udiboy1209-Tiled-Integration-With-KivEnt/PSF-Kivy-udiboy1209-Tiled-Integration-With-KivEnt.md)
+		- [MovingBlocks-rzats-Visual-NUI-Editor](GSoC-2016/Accepted/MovingBlocks-rzats-Visual-NUI-Editor/MovingBlocks-rzats-Visual-NUI-Editor.md)
 
-`Proposed` is euphemism.
+`Propose
+d` is euphemism.
 *Love can often be one-directional.*
 
 ## Adding your proposal?
