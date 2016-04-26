@@ -20,3 +20,5 @@ List of people who have contributed
 [Meet Pragnesh Shah](https://github.com/meetshah1995)
 
 [Rostyslav Zatserkovnyi](https://github.com/rzats)
+
+[Kalpesh Krishna](https://github.com/martiansideofthemoon)
