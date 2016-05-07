@@ -22,3 +22,5 @@ List of people who have contributed
 [Rostyslav Zatserkovnyi](https://github.com/rzats)
 
 [Kalpesh Krishna](https://github.com/martiansideofthemoon)
+
+[OGINO Masanori](https://github.com/omasanori)
