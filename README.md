@@ -37,6 +37,7 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 		- [MovingBlocks-rzats-Visual-NUI-Editor](GSoC-2016/Accepted/MovingBlocks-rzats-Visual-NUI-Editor/MovingBlocks-rzats-Visual-NUI-Editor.md)
 		- [Mozilla-KalpeshKrishna-Schedule-TaskCluster-Jobs](GSoC-2016/Accepted/Mozilla-KalpeshKrishna-Schedule-TaskCluster-Jobs/Mozilla-KalpeshKrishna-Schedule-TaskCluster-Jobs.md)
 		- [lowRISC-omasanori-Porting-musl-libc-to-RISC-V](GSoC-2016/Accepted/lowRISC-omasanori-Porting-musl-libc-to-RISC-V/lowRISC-omasanori-Porting-musl-libc-to-RISC-V.md)
+        - [OBF-VivekRai-Linking_Phenotypes_with_SNP](GSoC-2016/Accepted/OBF-VivekRai-Linking_Phenotypes_with_SNP/OBF-VivekRai-Linking_Phenotypes_with_SNP.md)
 
 `Proposed` is euphemism.
 *Love can often be one-directional.*
