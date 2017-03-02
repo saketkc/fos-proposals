@@ -24,3 +24,5 @@ List of people who have contributed
 [Kalpesh Krishna](https://github.com/martiansideofthemoon)
 
 [OGINO Masanori](https://github.com/omasanori)
+
+[Harsh Gupta](http://hargup.in)

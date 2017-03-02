@@ -20,6 +20,8 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 		- [Mozilla-ManishG-Servo](GSoC-2014/Accepted/Mozilla-ManishG-Servo/Mozilla-ManishG-Servo.md)
 		- [KDE-AnujPahuja-KDE-Games-to-KF5](GSoC-2014/Accepted/KDE-AnujPahuja-KDE-Games-to-KF5/GSoC - KDE.md)
 		- [BioJS-SaketChoudhary-HumanGV](GSoC-2014/Accepted/BioJS-SaketChoudhary-HumanGV/BioJS-SaketChoudhary-HumanGV.md)
+		- [Sympy-HarshGupta-Solvers](GSoC-2014/Accepted/Sympy-HarshGupta-Solvers/Sympy-HarshGupta-Solvers.md)
+
 - GSoC-2015
 	- Accepted
 		- [HimanshuMishra-PSF-Implementing-Add-On-System-For-NetworkX](GSoC-2015/Accepted/HimanshuMishra-PSF-Implementing-Add-On-System-For-NetworkX/GSoC-2015-Application-Himanshu-Mishra-Add-on-System-for-NetworkX.md)
