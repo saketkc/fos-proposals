@@ -35,6 +35,7 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 - GSoC-2016
 	- Accepted
 		- [PSF-MeetPragneshShah-RISCV-myHDL](GSoC-2016/Accepted/PSF-MeetPragneshShah-RISCV-myHDL/PSF-MeetPragneshShah-RISCV-myhdl.md)
+		- [PSF-Kivy-Plyer-Kiok46](GSoC-2016/Accepted/PSF-Kivy-Plyer-Kiok46/Kuldeep_Plyer_Proposal.pdf)
 		- [PSF-Kivy-udiboy1209-Tiled-Integration-With-KivEnt](GSoC-2016/Accepted/PSF-Kivy-udiboy1209-Tiled-Integration-With-KivEnt/PSF-Kivy-udiboy1209-Tiled-Integration-With-KivEnt.md)
 		- [MovingBlocks-rzats-Visual-NUI-Editor](GSoC-2016/Accepted/MovingBlocks-rzats-Visual-NUI-Editor/MovingBlocks-rzats-Visual-NUI-Editor.md)
 		- [Mozilla-KalpeshKrishna-Schedule-TaskCluster-Jobs](GSoC-2016/Accepted/Mozilla-KalpeshKrishna-Schedule-TaskCluster-Jobs/Mozilla-KalpeshKrishna-Schedule-TaskCluster-Jobs.md)
