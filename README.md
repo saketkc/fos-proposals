@@ -18,7 +18,7 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 - GSoC-2014
 	- Accepted
 		- [Mozilla-ManishG-Servo](GSoC-2014/Accepted/Mozilla-ManishG-Servo/Mozilla-ManishG-Servo.md)
-		- [KDE-AnujPahuja-KDE-Games-to-KF5](GSoC-2014/Accepted/KDE-AnujPahuja-KDE-Games-to-KF5/GSoC - KDE.md)
+		- [KDE-AnujPahuja-KDE-Games-to-KF5](GSoC-2014/Accepted/KDE-AnujPahuja-KDE-Games-to-KF5/GSoC-KDE.md)
 		- [BioJS-SaketChoudhary-HumanGV](GSoC-2014/Accepted/BioJS-SaketChoudhary-HumanGV/BioJS-SaketChoudhary-HumanGV.md)
 		- [Sympy-HarshGupta-Solvers](GSoC-2014/Accepted/Sympy-HarshGupta-Solvers/Sympy-HarshGupta-Solvers.md)
 
@@ -28,7 +28,7 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 		- [Sumith1896-PSF-Implementing-Polynomial-module-in-CSymPy](GSoC-2015/Accepted/Sumith1896-PSF-Implementing-Polynomial-module-in-CSymPy/GSoC-2015-Application-Sumith-Implementing-polynomial-module-in-CSymPy.md)
 		- [Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy](GSoC-2015/Accepted/Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy/Pratyaksh-PSF-Sampling-Algorithms-in-pgmpy.md)
 		- [SaketC-statsmodels-MixedModels](GSoC-2015/Accepted/SaketC-statsmodels-MixedModels/SaketC-statsmodels-MixedModels.md)
-		- [The-Eclipse-Foundation-AnujPahuja-Cloud-Removal](GSoC-2015/Accepted/The-Eclipse-Foundation-AnujPahuja-Cloud-Removal/GSoC - GeoTrellis.md)
+		- [The-Eclipse-Foundation-AnujPahuja-Cloud-Removal](GSoC-2015/Accepted/The-Eclipse-Foundation-AnujPahuja-Cloud-Removal/GSoC-GeoTrellis.md)
 		- [ASF-ODE-Process-Instance-Visualization-For-Monitoring-Console](GSoC-2015/Accepted/kamdjouduplex-ASF-ODE-Process-Instance-Visualization-For-Monitoring-Console/kamdjouduplex-ASF-ODE-Process-Instance-Visualization-For-Monitoring-Console.md)
 	- Proposed
 		- [Mozilla-ManishG-FormSupportServo](GSoC-2015/Proposed/Mozilla-ManishG-FormSupportServo/Mozilla-ManishG-FormSupportServo.md)
