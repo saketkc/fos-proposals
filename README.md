@@ -81,6 +81,9 @@ which in my experience so far gives superior output to `pandoc`.
 Suggestions are always welcome.
 
 
+# Similar Projects
 
+- [SDSLabs GSoC](https://blog.sdslabs.co/gsoc/)
+- [GSoC-2017-Accepted-Proposals](https://github.com/saurabhshri/GSoC-2017-Accepted-Proposals)
 
 
