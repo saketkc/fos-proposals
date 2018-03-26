@@ -86,4 +86,6 @@ Suggestions are always welcome.
 - [SDSLabs GSoC](https://blog.sdslabs.co/gsoc/)
 - [GSoC-2017-Accepted-Proposals](https://github.com/saurabhshri/GSoC-2017-Accepted-Proposals)
 
+# FAQs
 
+- [GSoC-FAQs](https://github.com/OrkoHunter/gsoc-FAQs)
