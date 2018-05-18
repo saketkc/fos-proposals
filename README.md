@@ -42,7 +42,7 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
         - [OBF-VivekRai-Linking_Phenotypes_with_SNP](GSoC-2016/Accepted/OBF-VivekRai-Linking_Phenotypes_with_SNP/OBF-VivekRai-Linking_Phenotypes_with_SNP.md)
 - [GSoC-2018](GSoC-2018)
 	- [Accepted](GSoC-2018/Accepted)
-		- [CCExtractor-ShivamKumarJha-ProjectNephos](GSoc-2018/Accepted/CCExtractor-ShivamKumarJha-ProjectNephos/CCExtractor-ShivamKumarJha-ProjectNephos.md)
+		- [CCExtractor-ShivamKumarJha-ProjectNephos](GSoC-2018/Accepted/CCExtractor-ShivamKumarJha-ProjectNephos/CCExtractor-ShivamKumarJha-ProjectNephos.md)
 
 `Proposed` is euphemism.
 *Love can often be one-directional.*
