@@ -44,8 +44,8 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 	- [Accepted](GSoC-2018/Accepted)
 		- [CCExtractor-ShivamKumarJha-ProjectNephos](GSoC-2018/Accepted/CCExtractor-ShivamKumarJha-ProjectNephos/CCExtractor-ShivamKumarJha-ProjectNephos.md)
 
-`Proposed` is euphemism.
-*Love can often be one-directional.*
+`Proposed` is euphemistic.
+*Love can often be one-sided.*
 
 ## Adding your proposal?
 
