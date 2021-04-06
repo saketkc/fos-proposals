@@ -35,14 +35,14 @@ I like `itertools` because of its magical functions which are written to handle 
 
 I know how to use Git and Github. If I am stuck, I go to Google and always come back with a solution.
 
-#The Project   
-##The Problem and Motivation   
+# The Project   
+## The Problem and Motivation   
 
 NetworkX being a pure python library provides a swift way for people to use it because python doesn't need a compiler, so everything goes smoothly on the python interpreter. In spite of that, it is realized that there also exists other graph packages written in other programming languages. While they being written in compiled languages, they offer rich functionalities whose reimplementation in Python is an important task. Some of the common fuctionalities between networkx and other packages have greater performance in them due to their use of compiled languages. This motivates us strongly to integrate them with NetworkX and make it more awesome.
 
 Related to the add-ons, in [#1325](https://www.github.com/networkx/networkx/issues/1325) it was suggested to remove the drawing package out of the NetworkX core package. The thought is that graph drawing should be more interesting for developing purposes for those developers who are interested in visual elements, external graphics packages rather than algorithms and data structures. Keeping it under NetworkX umbrella as `networkx-matplotlib` would make it more easier to develop and maintain.
 
-##The Plan   
+## The Plan   
 
 Integration doesn't seem to have a single and best way. There are mixed ideas discussed in [#1167](https://github.com/networkx/networkx/issues/1167) to choose the way of implementation.
 As I sum up, there are mainly two ways to do this.
@@ -54,13 +54,13 @@ But this will lead to complication as all those code in NetworkX for the add-on 
 
 My work can be divided into three phases.
 
-####Phase 1: Designing the approach for add-on implementation
+#### Phase 1: Designing the approach for add-on implementation
 
 A separate repository under NetworkX umbrella on Github will be hosted as `networkx-<addon>` containing the add-on source files, tests and code files written for Cython. The python wrapper, however will be present in the NetworkX proper package. For example, a module named `partition` will be created in `networkx.addons.<add-on>` to provide the partitioning functionality for NetworkX.
 
 Regarding `setup.py`, it will not be edited for each and every add-on to avoid the condition which will quickly inflate the file. Rather it will inspect `networkx.external.addons`, so the add-ons which are present, will be installed leaving no conflictions with those which are not present but are mentioned in `networkx.addons`.
 
-####Phase 2: Working with two graph libraries and hosting the add-ons on Github
+#### Phase 2: Working with two graph libraries and hosting the add-ons on Github
 
 I will have to show that the implemented add-on system works. For this I'll have to implement two officially sanctioned add-ons and host them on github. For this I choose the following two libraries-
 
@@ -70,13 +70,13 @@ I will have to show that the implemented add-on system works. For this I'll have
 
 Both these add-ons will be hosted on Github under NetworkX umbrella. I plan to work on the respective forks. By the end of every week or two, there will be something to merge.
 
-####Phase 3: Working with graph drawing package of NetworkX
+#### Phase 3: Working with graph drawing package of NetworkX
 
 In this period, I will use the implemented add-on system to have the drawing package out of networkx main repository and be implemented as an add-on being hosted as a separate sub-repository under NetworkX umbrella as `networkx-matplotlib`. This will not be similar to implementing a C/C++ add-on as it will not require any wrapper or Cython. This will be a straight forward implementation of a python module as an add-on.
 
 Additionally I'll be writing tests side by side. Solving all the bugs in the last is really a bad idea as compared to not letting them emerge. However, if any hiccups still persists, I'll try to solve them before merging the final work.
 
-##Prototype
+## Prototype
 
 One of the prime issues of this project is how the NetworkX API is going to be used while interaction with the add-ons. How the implementation of add-ons are going to change the original NetworkX core package. Such things got discussed in [#1429](https://github.com/networkx/networkx/issues/1429). 
 
@@ -121,7 +121,7 @@ except ImportError:
     print("Please install networkx-lemon to use this add-on")  # Or maybe raise an exception?
 ```    
 
-##Timeline(Tentative)   
+## Timeline(Tentative)   
 
 **Community Bonding Period (27 April - 25 May)**
 
