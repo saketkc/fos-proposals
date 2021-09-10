@@ -121,7 +121,7 @@ Technology)
 
 **Overview**
 
-<img src="media/media/image8.png" style="width:4.30047in;height:7.49826in" />
+<img src="media/image8.png" style="width:4.30047in;height:7.49826in" />
 
 1.  Modularising scripts and adding structure to them
 
@@ -256,7 +256,7 @@ like this:
 
 Below I have attached the tentative menu of the command line tool,
 
-<img src="media/media/image7.png" style="width:6.48958in;height:3.63542in" />
+<img src="media/image7.png" style="width:6.48958in;height:3.63542in" />
 
 I have used argparse to create a prototype of the command line menu
 which we will have.
@@ -278,7 +278,7 @@ mode, Please check out the video here (google drive link):
 In case you are having any issues in viewing the above video, I have
 also described the flow with the help of some screenshots below:
 
-<img src="media/media/image5.png" style="width:6.48493in;height:6.34896in" />
+<img src="media/image5.png" style="width:6.48493in;height:6.34896in" />
 
 This feature allows the user to choose any specific species’ GTF file
 from the Ensembl database, select the required features and generate the
@@ -306,7 +306,7 @@ libraries:
 Ensembl has its own FTP site with which we can download the files we
 require.
 
-<img src="media/media/image2.png" style="width:6.5in;height:0.79167in" />
+<img src="media/image2.png" style="width:6.5in;height:0.79167in" />
 
 With the help of the **ftplib**, I am able to access this site. The
 Ensembl FTP site provides a directory *current_gtf* which contains all
@@ -376,7 +376,7 @@ features which are available in the GTF as well as are supported by our
 library. For this, we can list out the features in the GTF like it is
 done in the notebooks currently (as shown in the below code snippet):
 
-<img src="media/media/image3.png" style="width:4.03125in;height:2.1875in" />
+<img src="media/image3.png" style="width:4.03125in;height:2.1875in" />
 
 And then the selected features will be sent to our modular library and
 will be processed and finally converted to the desired bedfile(s).
@@ -436,7 +436,7 @@ which one can download from conda.
 
 I will be converting my package in the form of a bioconda recipe and
 then hosting my package on
-it.<img src="media/media/image9.png" style="width:2.19881in;height:2.29786in" />
+it.<img src="media/image9.png" style="width:2.19881in;height:2.29786in" />
 
 Then with the help of a simple command, like in the one below, one can
 download and import it into their project.
@@ -459,10 +459,10 @@ BED files for a lot of common species.
 Please take a look at the below chart which clearly describes the
 working of the service.
 
-<img src="media/media/image4.png" style="width:6.5in;height:1.02778in" />
+<img src="media/image4.png" style="width:6.5in;height:1.02778in" />
 
 1\. Setting up a database for the
-Repository<img src="media/media/image11.png" style="width:3.36979in;height:1.34265in" />
+Repository<img src="media/image11.png" style="width:3.36979in;height:1.34265in" />
 
 We will be hosting a database on Zenodo.
 
@@ -491,11 +491,11 @@ I will be using Angular-9 to make it much more easy on eyes and
 professional looking and the entire UI for the github page we will be
 using to host our Service will look something like this.
 
-<img src="media/media/image6.png" style="width:6.5in;height:2.5in" />
+<img src="media/image6.png" style="width:6.5in;height:2.5in" />
 
 After choosing:
 
-<img src="media/media/image1.png" style="width:6.5in;height:1.73611in" />
+<img src="media/image1.png" style="width:6.5in;height:1.73611in" />
 
 A .json file will be kept in that github repository containing the
 download link for each species name.
@@ -984,7 +984,7 @@ genome required for this project as I have studied them during my
 coursework, and I **familiarized** myself with **.gtf** and **.bed**
 files.
 
-<img src="media/media/image14.png" style="width:5.70318in;height:4.65104in" />
+<img src="media/image14.png" style="width:5.70318in;height:4.65104in" />
 
 I have **run the notebooks** present on the **genecode_regions**
 repository, and fixed the readme as well so that someone else using
@@ -1009,7 +1009,7 @@ from this test in their codebase.
 This was my first issue on Oppia and the mentor at the organization
 appreciated my work:
 
-<img src="media/media/image12.png" style="width:6.5in;height:1.81944in" />
+<img src="media/image12.png" style="width:6.5in;height:1.81944in" />
 
 **PR [<u>\#12279</u>](https://github.com/oppia/oppia/pull/12279)**:
 Fixed the test checking period at the end of docstring.
