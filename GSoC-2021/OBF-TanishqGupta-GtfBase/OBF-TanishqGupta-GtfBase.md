@@ -17,7 +17,6 @@ Technology)
 
 **Time Zone** IST( UTC + 5:30)
 
-**Contact No.** (+91) 9953374024
 
 # MENTORS
 
@@ -27,27 +26,27 @@ Technology)
 
 # ABOUT ME & WHY I CHOSE THIS PROJECT 
 
-# I am an undergraduate student in my second year at Indian Institute of Technology, Kanpur pursuing a Bachelor of Technology in Biological Sciences and Bioengineering. 
+I am an undergraduate student in my second year at Indian Institute of Technology, Kanpur pursuing a Bachelor of Technology in Biological Sciences and Bioengineering. 
 
-# I first got familiar with programming in my freshman year through the medium of the course ESC101 - Fundamentals of programming. Initially my performance was quite bad in this course as I was completely new to programming. But, within a few weeks, I started developing interest in it, so much that I was solving 4-5 problems daily and eventually got an A grade in the subject.
+I first got familiar with programming in my freshman year through the medium of the course ESC101 - Fundamentals of programming. Initially my performance was quite bad in this course as I was completely new to programming. But, within a few weeks, I started developing interest in it, so much that I was solving 4-5 problems daily and eventually got an A grade in the subject.
 
-# My interest in programming didn't end there. During my summer break, I worked on multiple simple and small programming projects. During this time, I also came to know about the Game Development society of my College and joined it. There, I learnt game development and also developed a PC game using Unity and C\#.
+My interest in programming didn't end there. During my summer break, I worked on multiple simple and small programming projects. During this time, I also came to know about the Game Development society of my College and joined it. There, I learnt game development and also developed a PC game using Unity and C\#.
 
-# Then, I came to know about competitive programming. I started solving algorithmic programming problems on Codechef. I really enjoyed solving them, and also learnt various different algorithms during this time. Currently I have a highest rating of 1841 (4 star) on Codechef. Though competitive programming has little relevance to this project, it does show the problem solving aptitude of a student. 
+Then, I came to know about competitive programming. I started solving algorithmic programming problems on Codechef. I really enjoyed solving them, and also learnt various different algorithms during this time. Currently I have a highest rating of 1841 (4 star) on Codechef. Though competitive programming has little relevance to this project, it does show the problem solving aptitude of a student. 
 
-# The first time I experienced real Object Oriented Programming was when I joined the web development team of Asia's largest tech fest TechKriti (Tech fest of IIT Kanpur). There I learnt web development, learnt how to find a solution online when you are stuck, how to debug large projects and gained a lot of practical skills. 
+The first time I experienced real Object Oriented Programming was when I joined the web development team of Asia's largest tech fest TechKriti (Tech fest of IIT Kanpur). There I learnt web development, learnt how to find a solution online when you are stuck, how to debug large projects and gained a lot of practical skills. 
 
-# At the same time from one of my teammates, I came to know about the Open Source and the Hacktoberfest. I contributed my implementations of various algorithms to a repository whose aim was to help students in courses like Data structures and algorithms with implementations of important Algorithms in multiple different languages. 
+At the same time from one of my teammates, I came to know about the Open Source and the Hacktoberfest. I contributed my implementations of various algorithms to a repository whose aim was to help students in courses like Data structures and algorithms with implementations of important Algorithms in multiple different languages. 
 
-# Though I am in my sophomore year, I took a pre final year course of Computational Biology and Bioinformatics as I was highly interested in learning about it. I got so much engaged in it that I now aspire to become a Bioinformatics researcher in the future. 
+Though I am in my sophomore year, I took a pre final year course of Computational Biology and Bioinformatics as I was highly interested in learning about it. I got so much engaged in it that I now aspire to become a Bioinformatics researcher in the future. 
 
-# Later after finishing my TechKriti project, I again went back to opensource and started exploring it. I found a very famous organisation OPPIA Foundation and learnt about their platform that aims to provide free quality education to students around the globe. I joined their community and started exploring their platform. I reported a few bugs which I found and also helped them by adding new lint tests to make their code cleaner and better. From there only, I learnt about Google summer of code. I really liked the concept of GSoC and since I liked bioinformatics so much from my course, I looked for open source organisations related to Bioinformatics. Then, I came to know about OBF and from their website, I came to know about potential project ideas for GSoC'21 (though results for participating organisations were not released at that time).
+Later after finishing my TechKriti project, I again went back to opensource and started exploring it. I found a very famous organisation OPPIA Foundation and learnt about their platform that aims to provide free quality education to students around the globe. I joined their community and started exploring their platform. I reported a few bugs which I found and also helped them by adding new lint tests to make their code cleaner and better. From there only, I learnt about Google summer of code. I really liked the concept of GSoC and since I liked bioinformatics so much from my course, I looked for open source organisations related to Bioinformatics. Then, I came to know about OBF and from their website, I came to know about potential project ideas for GSoC'21 (though results for participating organisations were not released at that time).
 
-# There I found that the GTF Base project is really interesting. I really liked the project from my first glance as it was quite relatable. It used a lot of concepts which I learnt from my course in last semester ESO206 - PRINCIPLES OF BIOTECHNOLOGY. I decided to try it out. I initially faced some issues in running the notebooks on the genecode_regions repository but I did not give up and found the solution. I even raised a Pull Request, so that others don’t face the same issues again. After learning more about GTF and Bed files, I realized why this project is actually very useful. 
+There I found that the GTF Base project is really interesting. I really liked the project from my first glance as it was quite relatable. It used a lot of concepts which I learnt from my course in last semester ESO206 - PRINCIPLES OF BIOTECHNOLOGY. I decided to try it out. I initially faced some issues in running the notebooks on the genecode_regions repository but I did not give up and found the solution. I even raised a Pull Request, so that others don’t face the same issues again. After learning more about GTF and Bed files, I realized why this project is actually very useful. 
 
-# A lot of analysis in Bioinformatics requires BED files to work with, however, currently we don't have any existing database of BED files nor a modular script which can convert GTF files (standard) to Bed. Though it is trivial to obtain a BED from GTF but it does require time and I think this project can save a lot of time for people doing research work in this field and maybe they can utilize this saved time in a more productive way.
+A lot of analysis in Bioinformatics requires BED files to work with, however, currently we don't have any existing database of BED files nor a modular script which can convert GTF files (standard) to Bed. Though it is trivial to obtain a BED from GTF but it does require time and I think this project can save a lot of time for people doing research work in this field and maybe they can utilize this saved time in a more productive way.
 
-# 
+ 
 
 # PROJECT DESCRIPTION
 
