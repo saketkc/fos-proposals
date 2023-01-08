@@ -47,6 +47,9 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 - [GSoC-2021](GSoC-2021)
 	- [GSoC-2021/OBF-TanishqGupta-GtfBase](GSoC-2021/OBF-TanishqGupta-GtfBase/OBF-TanishqGupta-GtfBase.md)
 
+- [GSoC-2022](GSoC-2022)
+	- [GSoC-2022/Introduce WebSocket into rTorrent](GSoC-2022/Accepted/CCExtractor-DongyangZheng-Introduce-WebSocket-into-rTorrent/DongyangZheng-Introduce%20WebSocket%20into%20rTorrent.md)
+
 
 `Proposed` is euphemistic.
 *Love can often be one-sided.*
