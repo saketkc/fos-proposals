@@ -50,6 +50,9 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 - [GSoC-2022](GSoC-2022)
 	- [GSoC-2022/Introduce WebSocket into rTorrent](GSoC-2022/Accepted/CCExtractor-DongyangZheng-Introduce-WebSocket-into-rTorrent/DongyangZheng-Introduce%20WebSocket%20into%20rTorrent.md)
 
+- [GSoC-2023](GSoC-2023)
+	- [GSoC-2023/pg_statviz: Time Series Analysis & Visualization of Statistics](./GSoC-2023/Accepted/PostgreSQL/PostgreSQL-RajivHarlalka-pg_statviz.md)
+
 
 `Proposed` is euphemistic.
 *Love can often be one-sided.*
