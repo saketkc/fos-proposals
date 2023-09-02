@@ -52,7 +52,7 @@ If you have proposals from GSoC/KDE-Soc/any, feel free to send a PR.
 
 - [GSoC-2023](GSoC-2023)
 	- [GSoC-2023/pg_statviz: Time Series Analysis & Visualization of Statistics](./GSoC-2023/Accepted/PostgreSQL-RajivHarlalka-pg_statviz/PostgreSQL-RajivHarlalka-pg_statviz.md)
-	- [GSoC-2023/Postgres Extension Tutorial](./GSoC-2023/Accepted/PostgreSQL-IshaanAdarsh-postgres-extension-tutorial/PostgreSQL-IshaanAdarsh-postgres-extension-tutorial.md)
+	- [GSoC-2023/Postgres Extension Tutorial/Quick Start](./GSoC-2023/Accepted/PostgreSQL-IshaanAdarsh-postgres-extension-tutorial/PostgreSQL-IshaanAdarsh-postgres-extension-tutorial.md)
 
 
 `Proposed` is euphemistic.
